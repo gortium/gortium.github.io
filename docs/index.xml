@@ -6,6 +6,12 @@
       <description>Last 10 notes on Thierry Pouplier Second Brain 🧠</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Liste des arbres</title>
+    <link>https://gortium.github.io/Slit-box/%F0%9F%8C%B3-Les-Arbres/Liste-des-arbres</link>
+    <guid>https://gortium.github.io/Slit-box/%F0%9F%8C%B3-Les-Arbres/Liste-des-arbres</guid>
+    <description>Liste des arbres tree Tree Identification Key.canvas Gymnospermes Groupe 1 Caractéristiques: Aiguilles ou écailles courtes, persistantes, serrés, opposées ou verticulées ...</description>
+    <pubDate>Sat, 19 Oct 2024 22:17:34 GMT</pubDate>
+  </item><item>
     <title>My Portfolio</title>
     <link>https://gortium.github.io/Portfolio/My-Portfolio</link>
     <guid>https://gortium.github.io/Portfolio/My-Portfolio</guid>
@@ -59,12 +65,6 @@
     <guid>https://gortium.github.io/</guid>
     <description>Welcome to my public second brain! 🧠 Hi! I’m Thierry Pouplier, an electrical engineer with a deep specialization in machine learning, control theory, and robotics ...</description>
     <pubDate>Sat, 19 Oct 2024 16:17:27 GMT</pubDate>
-  </item><item>
-    <title>Framing ML Problems</title>
-    <link>https://gortium.github.io/Slit-box/Framing-ML-Problems</link>
-    <guid>https://gortium.github.io/Slit-box/Framing-ML-Problems</guid>
-    <description>Framing ML Problems Project: @gortium’s Journey To Become a Machine Learning Engineer Repository: LinkedIn_Google_Cloud_Pro_ML_Eng_Cert_Framing_ML_Problems Key terms ...</description>
-    <pubDate>Mon, 18 Mar 2024 00:53:35 GMT</pubDate>
   </item>
     </channel>
   </rss>
