@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Thierry Pouplier Second Brain 🧠</title>
+      <link>https://gortium.github.io</link>
+      <description>Last 10 notes on Thierry Pouplier Second Brain 🧠</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>index</title>
+    <link>https://gortium.github.io/</link>
+    <guid>https://gortium.github.io/</guid>
+    <description>Welcome to my public second brain! 🧠 Hi! I’m Thierry Pouplier, an electrical engineer with a deep specialization in machine learning, control theory, and robotics ...</description>
+    <pubDate>Sat, 19 Oct 2024 16:17:27 GMT</pubDate>
+  </item><item>
+    <title>Framing ML Problems</title>
+    <link>https://gortium.github.io/Slit-box/Framing-ML-Problems</link>
+    <guid>https://gortium.github.io/Slit-box/Framing-ML-Problems</guid>
+    <description>Framing ML Problems Project: @gortium’s Journey To Become a Machine Learning Engineer Repository: LinkedIn_Google_Cloud_Pro_ML_Eng_Cert_Framing_ML_Problems Key terms ...</description>
+    <pubDate>Mon, 18 Mar 2024 00:53:35 GMT</pubDate>
+  </item><item>
+    <title>LinkedIn Google Cloud Professional Machine Learning Engineer Certification Preparation</title>
+    <link>https://gortium.github.io/Slit-box/LinkedIn-Google-Cloud-Professional-Machine-Learning-Engineer-Certification-Preparation</link>
+    <guid>https://gortium.github.io/Slit-box/LinkedIn-Google-Cloud-Professional-Machine-Learning-Engineer-Certification-Preparation</guid>
+    <description>LinkedIn Google Cloud Professional Machine Learning Engineer Certification Preparation The exam: Google Cloud Professional Machine Learning Engineer Certification Ressources: ...</description>
+    <pubDate>Mon, 18 Mar 2024 00:50:06 GMT</pubDate>
+  </item><item>
+    <title>Liste des arbres</title>
+    <link>https://gortium.github.io/Slit-box/%F0%9F%8C%B3-Les-Arbres/Liste-des-arbres</link>
+    <guid>https://gortium.github.io/Slit-box/%F0%9F%8C%B3-Les-Arbres/Liste-des-arbres</guid>
+    <description>Liste des arbres tree Tree Identification Key.canvas Gymnospermes Groupe 1 Caractéristiques: Aiguilles ou écailles courtes, persistantes, serrés, opposées ou verticulées ...</description>
+    <pubDate>Fri, 17 Feb 2023 15:48:57 GMT</pubDate>
+  </item><item>
+    <title>robot framework</title>
+    <link>https://gortium.github.io/Slit-box/robot-framework</link>
+    <guid>https://gortium.github.io/Slit-box/robot-framework</guid>
+    <description>robot framework testing, python, programming, open source Robot framework is a open source test framework that offer a lots of automatically generated documentation and test report ...</description>
+    <pubDate>Wed, 22 Dec 2021 18:38:51 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
