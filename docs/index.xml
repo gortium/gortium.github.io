@@ -12,12 +12,6 @@
     <description>🦾 My Portfolio This portfolio presents my work in machine learning, robotics, and control systems. It highlights key projects, my education and my work experience.</description>
     <pubDate>Sun, 20 Oct 2024 18:37:05 GMT</pubDate>
   </item><item>
-    <title>My Portfolio</title>
-    <link>https://gortium.github.io/Portfolio/My-Portfolio</link>
-    <guid>https://gortium.github.io/Portfolio/My-Portfolio</guid>
-    <description>My Portfolio My Projects Here are all the projects contributed to: Walking Machine A autonomous humanoid assistance robot: SARA Naova A team of autonomous bipedal soccer playing ...</description>
-    <pubDate>Sun, 20 Oct 2024 18:21:53 GMT</pubDate>
-  </item><item>
     <title>🧠 My Notes</title>
     <link>https://gortium.github.io/Slit-box/%F0%9F%A7%A0-My-Notes</link>
     <guid>https://gortium.github.io/Slit-box/%F0%9F%A7%A0-My-Notes</guid>
@@ -64,6 +58,12 @@
     <link>https://gortium.github.io/Portfolio/Projects/Naova---ETS</link>
     <guid>https://gortium.github.io/Portfolio/Projects/Naova---ETS</guid>
     <description></description>
+    <pubDate>Sat, 19 Oct 2024 16:17:57 GMT</pubDate>
+  </item><item>
+    <title>ÉTS</title>
+    <link>https://gortium.github.io/Portfolio/Education/%C3%89TS</link>
+    <guid>https://gortium.github.io/Portfolio/Education/%C3%89TS</guid>
+    <description>ÉTS.</description>
     <pubDate>Sat, 19 Oct 2024 16:17:57 GMT</pubDate>
   </item>
     </channel>
