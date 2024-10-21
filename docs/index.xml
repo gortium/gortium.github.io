@@ -6,6 +6,12 @@
       <description>Last 10 notes on Thierry Pouplier Second Brain 🧠</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>GAP system</title>
+    <link>https://gortium.github.io/Slit-box/GAP-system</link>
+    <guid>https://gortium.github.io/Slit-box/GAP-system</guid>
+    <description>GAP system 1. Goal The goal for the given time span 2. Action Define task to achieve the goal 3. Prioritize Reserve time (time blocking) to do each task.</description>
+    <pubDate>Mon, 21 Oct 2024 04:11:09 GMT</pubDate>
+  </item><item>
     <title>🦾 My Portfolio</title>
     <link>https://gortium.github.io/Portfolio/%F0%9F%A6%BE-My-Portfolio</link>
     <guid>https://gortium.github.io/Portfolio/%F0%9F%A6%BE-My-Portfolio</guid>
@@ -58,12 +64,6 @@
     <link>https://gortium.github.io/Portfolio/Projects/Naova---ETS</link>
     <guid>https://gortium.github.io/Portfolio/Projects/Naova---ETS</guid>
     <description></description>
-    <pubDate>Sat, 19 Oct 2024 16:17:57 GMT</pubDate>
-  </item><item>
-    <title>ÉTS</title>
-    <link>https://gortium.github.io/Portfolio/Education/%C3%89TS</link>
-    <guid>https://gortium.github.io/Portfolio/Education/%C3%89TS</guid>
-    <description>ÉTS.</description>
     <pubDate>Sat, 19 Oct 2024 16:17:57 GMT</pubDate>
   </item>
     </channel>
