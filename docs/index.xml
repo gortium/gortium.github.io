@@ -6,6 +6,12 @@
       <description>Last 10 notes on Thierry Pouplier Second Brain 🧠</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>🦾 My Portfolio</title>
+    <link>https://thierrypouplier.com/Portfolio/%F0%9F%A6%BE-My-Portfolio</link>
+    <guid>https://thierrypouplier.com/Portfolio/%F0%9F%A6%BE-My-Portfolio</guid>
+    <description>🦾 My Portfolio This portfolio presents my work in machine learning, robotics, and control systems. It highlights key projects, my education and my work experience.</description>
+    <pubDate>Thu, 24 Oct 2024 02:08:43 GMT</pubDate>
+  </item><item>
     <title>Hermes LLM Assistant</title>
     <link>https://thierrypouplier.com/Portfolio/Projects/Hermes-LLM-Assistant</link>
     <guid>https://thierrypouplier.com/Portfolio/Projects/Hermes-LLM-Assistant</guid>
@@ -29,12 +35,6 @@
     <guid>https://thierrypouplier.com/Slit-box/GAP-system</guid>
     <description>GAP system 1. Goal The goal for the given time span 2. Action Define task to achieve the goal 3. Prioritize Reserve time (time blocking) to do each task.</description>
     <pubDate>Mon, 21 Oct 2024 04:11:09 GMT</pubDate>
-  </item><item>
-    <title>🦾 My Portfolio</title>
-    <link>https://thierrypouplier.com/Portfolio/%F0%9F%A6%BE-My-Portfolio</link>
-    <guid>https://thierrypouplier.com/Portfolio/%F0%9F%A6%BE-My-Portfolio</guid>
-    <description>🦾 My Portfolio This portfolio presents my work in machine learning, robotics, and control systems. It highlights key projects, my education and my work experience.</description>
-    <pubDate>Sun, 20 Oct 2024 18:37:05 GMT</pubDate>
   </item><item>
     <title>🧠 My Notes</title>
     <link>https://thierrypouplier.com/Slit-box/%F0%9F%A7%A0-My-Notes</link>
@@ -60,11 +60,11 @@
     <description>Kinova.</description>
     <pubDate>Sat, 19 Oct 2024 16:17:58 GMT</pubDate>
   </item><item>
-    <title>IVI</title>
-    <link>https://thierrypouplier.com/Portfolio/Work-experience/IVI</link>
-    <guid>https://thierrypouplier.com/Portfolio/Work-experience/IVI</guid>
+    <title>Genetec</title>
+    <link>https://thierrypouplier.com/Portfolio/Work-experience/Genetec</link>
+    <guid>https://thierrypouplier.com/Portfolio/Work-experience/Genetec</guid>
     <description></description>
-    <pubDate>Sat, 19 Oct 2024 16:17:58 GMT</pubDate>
+    <pubDate>Sat, 19 Oct 2024 16:17:57 GMT</pubDate>
   </item>
     </channel>
   </rss>
